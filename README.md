@@ -90,4 +90,4 @@ Este projeto é licenciado sob a **MIT License**.
 
 ---
 
-📧 **Contato:** Para dúvidas ou sugestões, abra uma *issue* ou envie um e-mail para [seu-email@exemplo.com](mailto:fernando.kavinsky@ufrgs.br).
+📧 **Contato:** Para dúvidas ou sugestões, abra uma *issue* ou envie um e-mail para [fernando.kavinsky@ufrgs.br](mailto:fernando.kavinsky@ufrgs.br).
